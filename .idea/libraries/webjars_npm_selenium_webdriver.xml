@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="webjars.npm.selenium.webdriver" type="repository">
+    <properties maven-id="org.webjars.npm:selenium-webdriver:2.53.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/selenium-webdriver/2.53.3/selenium-webdriver-2.53.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/adm-zip/0.4.4/adm-zip-0.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/ws/2.0.0-beta.2/ws-2.0.0-beta.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/ultron/1.1.1/ultron-1.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/tmp/0.0.24/tmp-0.0.24.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/xml2js/0.4.4/xml2js-0.4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/sax/0.6.1/sax-0.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/xmlbuilder/13.0.2/xmlbuilder-13.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/rimraf/2.7.1/rimraf-2.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/glob/7.2.3/glob-7.2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/once/1.4.0/once-1.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/wrappy/1.0.2/wrappy-1.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/fs.realpath/1.0.0/fs.realpath-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/inherits/2.0.4/inherits-2.0.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/inflight/1.0.6/inflight-1.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/path-is-absolute/1.0.1/path-is-absolute-1.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/minimatch/3.1.2/minimatch-3.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/brace-expansion/1.1.11/brace-expansion-1.1.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/balanced-match/1.0.2/balanced-match-1.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/concat-map/0.0.1/concat-map-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
